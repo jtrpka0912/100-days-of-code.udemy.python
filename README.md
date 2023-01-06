@@ -4,3 +4,4 @@
 + Day 002 - 2023-01-01 (Tip Calculator)
 + Day 003 - 2023-01-01 (Choose Your Own Adventure)
 + Day 004 - 2023-01-02 (Rock, Paper, Scissors)
++ Day 005 - 2023-01-05 (Password Generator)
