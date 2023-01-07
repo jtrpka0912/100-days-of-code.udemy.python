@@ -6,3 +6,4 @@
 + Day 004 - 2023-01-02 (Rock, Paper, Scissors)
 + Day 005 - 2023-01-05 (Password Generator)
 + Day 006 - 2023-01-07 (Reeborgs World - Maze Challenge)
++ Day 007 - 2023-01-07 (Hangman)
