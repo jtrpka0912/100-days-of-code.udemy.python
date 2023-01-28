@@ -8,3 +8,4 @@
 + Day 006 - 2023-01-07 (Reeborgs World - Maze Challenge)
 + Day 007 - 2023-01-07 (Hangman)
 + Day 008 - 2023-01-08 (Caesar Cipher)
++ Day 009 - 2023-01-27 (Secret Auction)
